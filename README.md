@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <CodeBlock language="markdown" editable>
 # Identity Attack Detector – Stolen Login, Caught 🛡️
 
@@ -79,3 +80,7 @@ Project: Identity Attack Detector – Stolen Login, Caught
 
 Author: Akash
 </CodeBlock>
+=======
+# identity-attack-detector-
+A Python-based cybersecurity project for detecting suspicious login activity using risk scoring and a Streamlit dashboard.
+>>>>>>> 19dc898ec2f31a0ee2032ed9a6d8a04f8f322e33
